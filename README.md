@@ -1,18 +1,18 @@
-# Welcome, I'm Maya! 🌷👐🏽
+# Welcome, I'm Maya! 🌷🦋
 
 ## About Me 🌹 
 
-I'm a software engineer with a background in UI/UX design and visual arts. I always knew I wanted a creative career, but never guessed it would lead me to software engineering. I believe technology is most meaningful when creativity and humanity are part of the process.🦋
+I'm a software engineer with a background in UI/UX design and visual arts. I always knew I wanted a creative career, but never guessed it would lead me to software engineering. I believe technology is most meaningful when creativity and humanity are part of the process.
 
-My background spans design, technology, marketing, and hospitality, which has given me a unique perspective on how people interact in both digital and physical spaces. Those experiences taught me that great products start with people. Years in hospitality sharpened my communication, problem-solving, and empathy. 🤲🏽
+My background spans design, technology, marketing, and hospitality, which has given me a unique perspective on how people interact in both digital and physical spaces. Those experiences taught me that great products start with people. Years in hospitality sharpened my communication, problem-solving, and empathy.
 
-Now I combine those skills with code to build thoughtful, engaging websites, and I'm ready to join a team where design and technology come together to create meaningful connections.💻
+Now I combine those skills with code to build thoughtful, engaging websites, and I'm ready to join a team where design and technology come together to create meaningful connections.
 
-## Currently...🌀
+## Currently... 🌀
 
 - 🔭 **Building:** Responsive and server side web apps
 - 🌱 **Learning:** Back-end development (node.js), Github & VCS (tig, fish, and git)
-- 🪩 **Fun Fact:** Anything art & creative related are my jam!🎨 Becoming a software engineer has opened a whole new world of creative possibilities ✨
+- 🪩 **Fun Fact:** Anything art & creative related are my jam! 🎨 Becoming a software engineer has opened a whole new world of creative possibilities ✨
 
 ## My Skills 💡
 
